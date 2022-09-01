@@ -9,4 +9,3 @@ print('masahate janebi =', masahatejanebi)
 print('masahate kol =', masahatekol) 
 print('hajm = ', hajm)
 
-
